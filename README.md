@@ -3,12 +3,15 @@
 <h3 align="center">Why wait when you can Innovate</h3>
 <!-- <h4 align="center"> Passionate about Web-development</h4> -->
 <br>
+<p align="center">
+ 💻 I love building responsive, user-friendly, and scalable web applications.<br>
+🚀 Skilled in JavaScript, React, Node.js, Express, and MongoDB. <br>
+🌱 Currently learning NEXT.js. <br>
+⚙️ I enjoy turning problems into clean, efficient code.
+</p>
+ <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JasielD&label=Jasiel's%20Profile%20Views%20&color=dc143c&style=flat" alt="jasielD" /> </p>
 <br>
-💻 I love building responsive, user-friendly, and scalable web applications.<br>
-🚀 Skilled in JavaScript, React, Node.js, Express, and MongoDB. <br>
-🌱 Currently learning NEXT/js. <br>
-⚙️ I enjoy turning problems into clean, efficient code. <br>
 <!-- ⚡ Fun fact : The first computer “bug” was literally a moth stuck in a relay in 1947. -->
  
 
